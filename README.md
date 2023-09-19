@@ -1,9 +1,9 @@
 ### Hi there 👋
+[![Muhannad's GitHub stats](https://github-readme-stats.vercel.app/api?username=msaleh28)](https://github.com/msaleh28/github-readme-stats)
 
 <!--
 **msaleh28/msaleh28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Muhannad's GitHub stats](https://github-readme-stats.vercel.app/api?username=msaleh28)](https://github.com/msaleh28/github-readme-stats)
 
 Here are some ideas to get you started:
 
