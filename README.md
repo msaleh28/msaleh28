@@ -4,7 +4,6 @@
 <!--
 **msaleh28/msaleh28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### I'm currently working on an e-commerce website with functioning payment processing.
+### I'm learning front-end frameworks, including React.JS, and also currently experimenting with AWS.
